@@ -6,7 +6,6 @@ using System;
 
 namespace com.carolsum.PND
 {
-    //Derictor
     public class Director : System.Object
     {
         private static Director _instance;
@@ -21,13 +20,10 @@ namespace com.carolsum.PND
         }
     }
 
-    //场记统一接口
     public interface SceneController
     {
         void LoadResources();
     }
-
-    //门面
     public interface UserAction
     {
         void OnMoveBoat();
