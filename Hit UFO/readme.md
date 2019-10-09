@@ -1,1 +1,1 @@
-演示视频地址：https://www.bilibili.com/video/av70701287/
+演示视频地址(提交时尚在审核)：https://www.bilibili.com/video/av70701287/
